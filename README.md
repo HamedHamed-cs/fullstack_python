@@ -4,7 +4,7 @@
 >first day vcs
 >task
 
--ahmed khaled
-
--hamed hamed
+___
+* ahmed khaled
+* hamed hamed
 ___
